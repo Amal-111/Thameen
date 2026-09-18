@@ -43,8 +43,7 @@ The project was developed through multiple software engineering phases, includin
 ## Project Documentation
 
 The complete project documentation, including requirements, system design, diagrams, implementation, and testing, is available here:
-
-[View Project Documentation](https://raw.githubusercontent.com/Amal-111/Thameen/main/docs/Thameen_SWE_Documentation.pdf)
+[View Project Documentation](./docs/Thameen_SWE_Documentation.pdf)
 
 ## Team Members
 
